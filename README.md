@@ -1,108 +1,67 @@
-# Clear Springs Station - UX/UI Redesign Concept
+# 🌿 Clear Springs Station — UX/UI Redesign Case Study
 
-## Overview
-
-This project presents an independent UX/UI redesign concept for Clear Springs Station.
-
-The objective is to improve user experience, enhance visual hierarchy, strengthen trust indicators, and create a conversion-focused homepage through modern UX/UI principles.
+> **Desafio:** Modernizar a presença digital da Clear Springs Station, melhorando a arquitetura de informação, a acessibilidade e a conversão do usuário através de uma interface limpa e intuitiva.  
+> **Papel:** Product Designer & UX/UI Specialist  
+> **Ferramentas:** [Figma](https://www.figma.com), Next.js, React, Tailwind CSS
 
 ---
 
-## Project Goals
-
-- Improve navigation and usability
-- Strengthen information architecture
-- Highlight certifications and trust factors
-- Increase conversion opportunities
-- Create a responsive and modern experience
+## 🔍 Visão Geral do Projeto
+Este estudo de caso aborda o redesenho conceitual da plataforma Clear Springs Station. O projeto foca em reestruturar a jornada do usuário, garantindo maior fluidez na descoberta de conteúdos de sustentabilidade e otimizando os pontos de contato (CTAs) para conversão.
 
 ---
 
-## My Role
+## 🗺️ Arquitetura de Informação & Jornada
+A estrutura da página foi reorganizada em 8 seções estratégicas para guiar o usuário de forma fluida:
 
-- UX Research
-- Heuristic Evaluation
-- Information Architecture
-- Wireframing
-- UI Design
-
----
-
-## UX Audit Findings
-
-### Strengths
-
-- Strong brand storytelling
-- High-quality imagery
-- Clear product differentiation
-- Valuable certification information
-
-### Opportunities
-
-- Improve content hierarchy
-- Reduce content overload
-- Increase CTA visibility
-- Enhance mobile usability
+1. **Hero Section:** Impacto visual imediato e proposta de valor clara.
+2. **About / Overview:** Contextualização rápida da marca.
+3. **Core Services / Features:** Destaque para os principais serviços e diferenciais.
+4. **Interactive Map / Station Info:** Facilidade de localização e dados em tempo real.
+5. **Community / News:** Atualizações e engajamento comunitário.
+6. **Sustainability Section:** Compromisso ambiental em evidência *(fator-chave de decisão para o público-alvo)*.
+7. **Contact CTA:** Conversão simplificada para contato ou agendamento.
+8. **Footer:** Links institucionais, redes sociais e avisos legais.
 
 ---
 
-## Proposed Homepage Structure
+## 🎨 Design System
 
-1. Hero Section
-2. Trust Indicators
-3. Why Choose Clear Springs
-4. Product Showcase
-5. Brand Story
-6. Sustainability Section
-7. Contact CTA
-8. Footer
+### Cores Principais
+O esquema de cores foi escolhido para transmitir sustentabilidade, confiança e modernidade:
+- **Forest Green:** `#2E6B3A` *(Principal / Destaque de elementos ecológicos)*
+- **Earth Brown:** `#6D4C41` *(Secundário / Texturas e detalhes terrosos)*
+- **Warm Beige:** `#F5F0E6` *(Fundo / Leveza e conforto visual)*
+- **White:** `#FFFFFF` *(Espaços em branco e legibilidade)*
 
----
-
-## Design System
-
-### Colors
-
-- Forest Green #2E6B3A
-- Earth Brown #6D4C41
-- Warm Beige #F5F0E6
-- White #FFFFFF
-
-### Typography
-
-- Poppins
-- Inter
+### Tipografia
+- **Poppins:** Usada em títulos e chamadas (traz personalidade moderna e geométrica).
+- **Inter:** Usada no corpo de texto (garante excelente legibilidade em telas de diferentes tamanhos).
 
 ---
 
-## Technologies
-
-- Figma
-- Next.js
-- React
-- Tailwind CSS
+## ⚙️ Tecnologias e Ferramentas
+- **Design & Prototipagem:** [Figma](https://www.figma.com)
+- **Frontend (Conceito):** [React](https://react.dev) / [Next.js](https://nextjs.org)
+- **Estilização:** [Tailwind CSS](https://tailwindcss.com)
 
 ---
 
-## Expected Outcomes
-
-- Better user experience
-- Improved content discoverability
-- Increased engagement
-- Higher conversion potential
-
----
-
-## Disclaimer
-
-This independent case study was created exclusively for educational and portfolio purposes.
+## 🎯 Resultados Esperados (Expected Outcomes)
+- **Melhoria da Experiência do Usuário (UX):** Redução da carga cognitiva na navegação mobile e desktop.
+- **Descoberta de Conteúdo:** Informações-chave de sustentabilidade e serviços acessíveis em até 2 cliques.
+- **Aumento do Engajamento:** Seções mais dinâmicas e interativas.
+- **Potencial de Conversão:** CTAs estrategicamente posicionados ao longo do fluxo de rolagem.
 
 ---
 
-## Author
+## 👤 Autor
 
-Maristela Costa
+**Maristela Costa**  
+Bacharel em Sistemas de Informação  
+*Cybersecurity | Data Protection | Business Intelligence | Big Data | Analytics*
 
-Bachelor's Degree in Information Systems
+---
 
-Cybersecurity | Data Protection | Business Intelligence | Big Data | AnalyticsS
+## 📄 Disclaimer
+*Este estudo de caso independente foi criado exclusivamente para fins educacionais e de portfólio.*
